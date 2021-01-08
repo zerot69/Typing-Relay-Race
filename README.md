@@ -1,5 +1,5 @@
 # Typing Relay Race (Tyrera)
-A simple command line Typing Game using Java TCP Server - Author: [zerot69](http://github.com/zerot69) & [baorhieu078](http://github.com/baorhieu078)
+A simple command line Typing Game using Java TCP Server - Author: [zerot69](http://github.com/zerot69) & [baohieu078](http://github.com/baohieu078)
 
 ## Features:
 
